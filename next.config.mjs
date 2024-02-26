@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   basePath: "/climate-change",
-  output: "export",
+  output: "next export",
   reactStrictMode: true
 };
 
